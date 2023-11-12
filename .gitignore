@@ -1,4 +1,4 @@
 .env
 env/
-video-narration/.DS_Store
-.DS_Store
+# ignore the .DS_Store files created by the macOS in all folders
+**/.DS_Store
